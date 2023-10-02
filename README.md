@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Shivamuttarwar7
-- 👀 I’m interested in Java Developmemt
+- 👋 Hi, I’m @Shivam uttarwar
+- 👀 I’m interested in Java development
 - 🌱 I’m currently learning Spring Boot Framework
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
