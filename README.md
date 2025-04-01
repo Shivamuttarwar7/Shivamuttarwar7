@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shivam uttarwar
 - 👀 I’m interested in Java development
-- 🌱 I’m currently learning Spring Boot Framework
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m proficient in Spring Boot development.
+  
 
 <!---
 Shivamuttarwar7/Shivamuttarwar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
